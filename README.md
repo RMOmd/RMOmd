@@ -5,7 +5,8 @@
 ### About me
 I'm junior manual/automation quality assurance engineer
 
-languages and tools
-![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=appveyor)
+###Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python)
 
 follow me

@@ -21,6 +21,5 @@ I'm junior manual/automation quality assurance engineer
 ### Follow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-171413?style=for-the-badge&logo=Telegram&logoColor=27a0d9)](https://t.me/RMOmd)
-[![Instagram](https://img.shields.io/badge/-Instagram-063d14?style=for-the-badge&logo=Instagram&logoColor=b4068e)](https://instagram.com/rm0md)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007bb6)](https://www.linkedin.com/in/alexandr-nechitaylo-292654178/)
 

@@ -12,7 +12,7 @@ I'm junior manual/automation quality assurance engineer
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-171413?style=for-the-badge&logo=python)
-![Selenium](https://img.shields.io/badge/-Selenium-063d14?style=for-the-badge&logo=selenium)
+![Selenium](https://img.shields.io/badge/-Selenium-171413?style=for-the-badge&logo=selenium)
 ![Postman](https://img.shields.io/badge/-Postman-171413?style=for-the-badge&logo=Postman)
 ![mySQL](https://img.shields.io/badge/-mySQL-171413?style=for-the-badge&logo=mySql)
 

@@ -14,7 +14,7 @@ I'm junior manual/automation quality assurance engineer
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=black)
 ![Selenium](https://img.shields.io/badge/-Selenium-b1f2ae?style=for-the-badge&logo=selenium)
 ![Postman](https://img.shields.io/badge/-Postman-171413?style=for-the-badge&logo=Postman)
-![mySQL](https://img.shields.io/badge/-mySQL-b1f2ae?style=for-the-badge&logo=mySql)
+![mySQL](https://img.shields.io/badge/-mySQL-b1f2ae?style=for-the-badge&logo=mySql&logoColor=black)
 
 
 

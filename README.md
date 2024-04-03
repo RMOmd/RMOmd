@@ -5,7 +5,7 @@
 
 
 ### About me
-I'm junior manual/automation quality assurance engineer
+I'm middle manual/automation quality assurance engineer
 
 
 

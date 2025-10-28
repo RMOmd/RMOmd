@@ -13,7 +13,7 @@ I'm middle manual/automation quality assurance engineer
 
 [![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/RMOmd/100_Days_of_Code)
 [![Selenium](https://img.shields.io/badge/-Selenium-gray?style=for-the-badge&logo=selenium)](https://github.com/RMOmd/selenium_autotest)
-![Playwright]([https://img.shields.io/badge/-Playwright-gray?style=for-the-badge&logo=playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white))
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-171413?style=for-the-badge&logo=Postman)

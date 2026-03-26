@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](https://github.com/RMOmd/RMOmd/blob/main/assets/logo%2Bgit.jpg)
+![Header](https://github.com/RMOmd/RMOmd/blob/main/assets/logo_github.png)
 
 
 
